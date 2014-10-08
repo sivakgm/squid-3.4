@@ -99,8 +99,8 @@ logfileOpen(const char *path, size_t bufsz, int fatal_flag)
             con="tcp://"+host;*/
 
 
-/*      double et=66666.660;
-        int rt=666;
+      double et=66666.660;
+/*        int rt=666;
         string cip = "666.66.6.66";
         string rs = "TCP_MISS";
         string hs = "666";
